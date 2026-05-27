@@ -19,12 +19,19 @@ can help you visualize and learn to see differential equations in terms of
 the laplace transform:
 
 a2   a1   a0   b2   b1   b0    filter type
+
 1    100  2500 1    0    0     high pass around 50 
-1    100  2500 0    0    2500  low pass around 50     
+
+1    100  2500 0    0    2500  low pass around 50  
+
 1    .5   2500 0    .5   0     band pass around 50
+
 1    .5   2500 1    0    2500  band stop around 50
+
 5    10   2500 0    10   0     lower quality band pass also around 50
+
 5    10   2500 5    0    2500  lower quality band stop also around 50
+
 
 Notice the following things: 
 
