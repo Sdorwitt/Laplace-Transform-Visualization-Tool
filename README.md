@@ -11,7 +11,7 @@ and the code outputs four graphs:
 4. 2d graph of the impulse response (x axis = time)
 5. 3d graph of the laplace transform (most all encompassing graph)
 
-In order to use the tool, go to the file main.py and run the code on vs code. 
+In order to use the tool, go to the file main.py and run the code in your python environment. 
 The code will ask for your inputs and afterwards produce the graphs.
 
 Here are some interesting inputs that will give you an idea of how the tool
